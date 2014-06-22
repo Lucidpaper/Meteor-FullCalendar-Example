@@ -7,11 +7,11 @@ from [Intro JS-Meteor-JQuery](https://www.youtube.com/channel/UC4-DIsbr23Z-rPe_F
 
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-fqJW1X22Cg/0.jpg)](http://www.youtube.com/watch?v=-fqJW1X22Cg)
 
-the code needs to be refined and is a work in progress and will not currently lauch the complete application
+The code needs to be refined and is a work in progress and will not currently lauch the complete application
 
 ## Installation
-
-CD to the directory where you want create the project then:
+___
+`cd` to the directory where you want create the project then:
 
 ```
 git clone https://github.com/Lucidpaper/Meteor-FullCalendar-Example
